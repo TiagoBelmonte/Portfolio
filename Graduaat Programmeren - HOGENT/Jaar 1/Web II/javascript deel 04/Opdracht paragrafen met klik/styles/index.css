@@ -1,0 +1,16 @@
+div{
+    background-color: lightgray;
+    padding: 30px;
+}
+
+p{
+    background-color: yellow;
+}
+
+.belangrijk{
+    font-weight: bold;
+}
+
+.opvallend{
+    color: red;
+}

@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "LinqBL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LinqBL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinqBL.dll": {}
+        }
+      },
+      "LinqDL_File/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "LinqBL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LinqDL_File.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinqDL_File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinqBL/1.0.0": {
+      "type": "project",
+      "path": "../LinqBL/LinqBL.csproj",
+      "msbuildProject": "../LinqBL/LinqBL.csproj"
+    },
+    "LinqDL_File/1.0.0": {
+      "type": "project",
+      "path": "../LinqDL_File/LinqDL_File.csproj",
+      "msbuildProject": "../LinqDL_File/LinqDL_File.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "LinqDL_File >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tbelm\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\TestReposetory\\TestReposetory.csproj",
+      "projectName": "TestReposetory",
+      "projectPath": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\TestReposetory\\TestReposetory.csproj",
+      "packagesPath": "C:\\Users\\tbelm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\TestReposetory\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tbelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\LinqDL_File\\LinqDL_File.csproj": {
+              "projectPath": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\LinqDL_File\\LinqDL_File.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

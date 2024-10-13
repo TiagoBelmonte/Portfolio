@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15664139-BA5B-4F34-B79B-2F2B57A955F2}|TestReposetory\\TestReposetory.csproj|c:\\users\\tbelm\\documenten\\graduat jaar 1\\programmeren gevorderd\\linqtrainingsdata\\testreposetory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15664139-BA5B-4F34-B79B-2F2B57A955F2}|TestReposetory\\TestReposetory.csproj|solutionrelative:testreposetory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB9BC30-F0DB-41DF-8794-96EC41AA3CDC}|LinqDL_File\\LinqDL_File.csproj|c:\\users\\tbelm\\documenten\\graduat jaar 1\\programmeren gevorderd\\linqtrainingsdata\\linqdl_file\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB9BC30-F0DB-41DF-8794-96EC41AA3CDC}|LinqDL_File\\LinqDL_File.csproj|solutionrelative:linqdl_file\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5528AA9-E9B5-482D-9D52-B19C9507A78F}|LinqBL\\LinqBL.csproj|c:\\users\\tbelm\\documenten\\graduat jaar 1\\programmeren gevorderd\\linqtrainingsdata\\linqbl\\interfaces\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5528AA9-E9B5-482D-9D52-B19C9507A78F}|LinqBL\\LinqBL.csproj|solutionrelative:linqbl\\interfaces\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\TestReposetory\\Program.cs",
+              "RelativeDocumentMoniker": "TestReposetory\\Program.cs",
+              "ToolTip": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\TestReposetory\\Program.cs",
+              "RelativeToolTip": "TestReposetory\\Program.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:50:18.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IfileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\LinqBL\\Interfaces\\IfileProcessor.cs",
+              "RelativeDocumentMoniker": "LinqBL\\Interfaces\\IfileProcessor.cs",
+              "ToolTip": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\LinqBL\\Interfaces\\IfileProcessor.cs",
+              "RelativeToolTip": "LinqBL\\Interfaces\\IfileProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:30:31.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\LinqDL_File\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "LinqDL_File\\FileProcessor.cs",
+              "ToolTip": "C:\\Users\\tbelm\\Documenten\\Graduat jaar 1\\programmeren gevorderd\\LinqTrainingsdata\\LinqDL_File\\FileProcessor.cs",
+              "RelativeToolTip": "LinqDL_File\\FileProcessor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:29:41.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

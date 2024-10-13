@@ -1,0 +1,123 @@
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\HoofdWindow.g.cs
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\HoofdWindow.baml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\NieuwProbleem.g.cs
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\obj\Debug\NieuwProbleem.baml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\Dapper.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\Renci.SshNet.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\MySql.Data.xml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\eerste versie\Aplicatie Project 01\PresentationLayer\bin\Debug\Dapper.xml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Dapper.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Renci.SshNet.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\MySql.Data.xml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Dapper.xml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\HoofdWindow.g.cs
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\NieuwProbleem.g.cs
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\HoofdWindow.baml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\NieuwProbleem.baml
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\tbelm\OneDrive - vzw KSO Tielt-Ruiselede\21-22\GP\09 TI project\tweede versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\HoofdWindow.g.cs
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\NieuwProbleem.g.cs
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Dapper.dll
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Renci.SshNet.dll
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\MySql.Data.xml
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Dapper.xml
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\HoofdWindow.baml
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\NieuwProbleem.baml
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\tiago.belmonte\OneDrive - vzw Scholen Molenland\21-22\GP\09 TI project\definietieve versie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\MySql.Data.dll
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Dapper.dll
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Renci.SshNet.dll
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\MySql.Data.xml
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\bin\Debug\Dapper.xml
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\HoofdWindow.g.cs
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\MainWindow.g.cs
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\NieuwProbleem.g.cs
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\App.g.cs
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.cache
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer_MarkupCompile.lref
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\HoofdWindow.baml
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\MainWindow.baml
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\NieuwProbleem.baml
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.g.resources
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\tbelm\Downloads\GP09_6NIT01_Applicatie\GP09_6NIT01_Applicatie\PresentationLayer\obj\Debug\PresentationLayer.pdb

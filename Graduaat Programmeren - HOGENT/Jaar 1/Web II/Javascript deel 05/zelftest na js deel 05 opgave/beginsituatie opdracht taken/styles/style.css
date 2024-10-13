@@ -1,0 +1,64 @@
+.controls label {
+    display:inline-block;
+    min-width:8em;
+}
+
+.controls input[type="button"] {
+    margin:20px 0 20px 0;
+}
+
+.tasksComponent {
+    margin: 10px 0 10px 0;
+    display:inline-block;
+    border: solid 1px #122b40;
+    position:relative; /* voor de absolute positionering van .dotsOverlay */
+}
+
+.dotsOverlay {
+    position:absolute;
+    top:0px;
+    right:0px;
+    user-select : none; /* zodat de verborgen tekst in de .dot's niet kan geselecteerd worden, noch de spaties tussen de .dot's */
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+
+    display: inline-block;
+    margin:5px 5px 0 0;
+
+    color:transparent;
+    background-color: #bbb;
+    cursor:pointer;
+}
+
+.heading, .task {
+    margin:0;
+    padding:10px;
+}
+
+.heading {
+    font-size: 100%;
+    background-color: #122b40;
+    color: white;
+}
+
+/* -- classes voor individuele tasks -- */
+
+.hidden {
+    display:none;
+}
+
+.low {
+    background-color:lightgreen;
+}
+
+.medium {
+    background-color:yellow;
+}
+
+.high {
+    background-color:red;
+}

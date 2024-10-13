@@ -1,0 +1,23 @@
+Zelftest "taken" (onderwerp : JS deel 01 t.e.m. JS deel 05)
+----------------
+
+Deze test werd gebruikt bij de evaluatie in schooljaar 2019-2020.
+
+Bedenk echter dat situatie toen anders was dan nu :
+	toen was het vak slechts 3u per week ipv 4u per week
+	toen was de totale leerstof slechts JS deel 01 t.e.m. JS deel 08
+		dit jaar zijn er nog delen bijgekomen na deel 08
+	toen was de eindscore een combinatie van twee aparte tests
+		test 1 telde mee voor 65% en test 2 telde mee voor 35%
+	het cursusmateriaal is nu uitgebreider
+		zaken werden herwerkt en aangevuld met video's
+
+Je kunt op het voorblad van de opdracht lezen hoeveel tijd je eraan zou mogen besteden. Het is een goede voorbereiding op jullie echte evaluatie, dus probeer het eens als je er tijd voor hebt!
+
+--
+
+De opdracht pdf bevat instructies over hoe men destijds moest indienen, dit is natuurlijk nu niet meer van toepassing.
+
+HET IS NIET DE BEDOELING DAT JE DE ZELFTEST INDIENT! 
+
+Je kan natuurlijk altijd eens je code komen tonen in een een oefeningenles, wellicht heeft je docent nog wat interessante feedback voor je.

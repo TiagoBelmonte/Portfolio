@@ -1,0 +1,34 @@
+﻿<Window x:Class="PresentationLayer.NieuwProbleem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationLayer"
+        mc:Ignorable="d"
+        Title="NieuwProbleem" Height="450" Width="500">
+    <Grid>
+        <Image x:Name="ImageLogoZiekenhuis" Source="download.jpg" Margin="0,0,9.6,320"/>
+        <Label x:Name="LabelNaam" Content="Naam:" HorizontalAlignment="Left" Height="32" Margin="10,105,0,0" VerticalAlignment="Top" Width="86"/>
+        <Label x:Name="LabelWerknemerId" Content="WerknemerId:" HorizontalAlignment="Left" Height="32" Margin="10,141,0,0" VerticalAlignment="Top" Width="86"/>
+        <Label x:Name="LabelToestel" Content="Toestel:" HorizontalAlignment="Left" Height="32" Margin="10,191,0,0" VerticalAlignment="Top" Width="86"/>
+        <Label x:Name="LabelPlaats" Content="Plaats:" HorizontalAlignment="Left" Height="32" Margin="10,235,0,0" VerticalAlignment="Top" Width="86"/>
+        <Label x:Name="LabelOmschrijving" Content="Omschrijving:" HorizontalAlignment="Left" Height="32" Margin="10,283,0,0" VerticalAlignment="Top" Width="86"/>
+        <TextBox x:Name="TextBoxNaam" HorizontalAlignment="Left" Height="32" Margin="105,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+        <TextBox x:Name="TextBoxWerknemerId" HorizontalAlignment="Left" Height="32" Margin="105,145,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+        <TextBox x:Name="TextBoxToestel" HorizontalAlignment="Left" Height="32" Margin="105,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+        <TextBox x:Name="TextBoxPlaats" HorizontalAlignment="Left" Height="32" Margin="105,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+        <TextBox x:Name="TextBoxOmschrijving" HorizontalAlignment="Left" Height="95" Margin="10,311,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+        <Button x:Name="ButtonAanmaken" Content="Aanmaken" HorizontalAlignment="Left" Margin="365,306,0,0" VerticalAlignment="Top" Width="108" Height="45" Background="#FF0086B9" Foreground="White" Click="ButtonAanmaken_Click"/>
+        <Button x:Name="ButtonAnuleren" Content="Annuleren" HorizontalAlignment="Left" Margin="364,366,0,0" VerticalAlignment="Top" Width="108" Height="45" Background="#FF0086B9" Foreground="White" Click="ButtonAnuleren_Click"/>
+        <Label x:Name="labelProbleemId" Content="probleemID" HorizontalAlignment="Left" Height="32" Margin="354,85,0,0" VerticalAlignment="Top" Width="86"/>
+        <TextBox x:Name="textboxProbleemId" HorizontalAlignment="Left" Height="32" Margin="354,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55" IsReadOnly="True"/>
+        <Label x:Name="labelStatus" Content="Status" HorizontalAlignment="Left" Height="32" Margin="354,149,0,0" VerticalAlignment="Top" Width="86"/>
+        <TextBox x:Name="textboxStatus" HorizontalAlignment="Left" Height="32" Margin="354,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <Label x:Name="labelItCoordinator" Content="IT-Coördinator" HorizontalAlignment="Left" Height="32" Margin="354,209,0,0" VerticalAlignment="Top" Width="103"/>
+        <TextBox x:Name="textboxItCoordinator" HorizontalAlignment="Left" Height="32" Margin="354,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="textboxDatum" HorizontalAlignment="Left" Height="32" Margin="268,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73"/>
+        <Button x:Name="buttonWijzigen" Content="Wijzigen" HorizontalAlignment="Left" Margin="365,306,0,0" VerticalAlignment="Top" Width="108" Height="45" Background="#FF0086B9" Foreground="White" IsHitTestVisible="False" Visibility="Hidden" Click="ButtonWijzigen_Click"/>
+        <Label x:Name="labelDatum" Content="datum:" HorizontalAlignment="Left" Height="32" Margin="212,334,0,0" VerticalAlignment="Top" Width="51"/>
+
+    </Grid>
+</Window>

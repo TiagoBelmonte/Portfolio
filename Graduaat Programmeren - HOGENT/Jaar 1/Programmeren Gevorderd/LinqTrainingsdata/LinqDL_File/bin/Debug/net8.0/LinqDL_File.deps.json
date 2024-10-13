@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LinqDL_File/1.0.0": {
+        "dependencies": {
+          "LinqBL": "1.0.0"
+        },
+        "runtime": {
+          "LinqDL_File.dll": {}
+        }
+      },
+      "LinqBL/1.0.0": {
+        "runtime": {
+          "LinqBL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinqDL_File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinqBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,517 @@
+/* Hier komt de opmaak van de body (de volledige pagina) van de website.*/
+body{
+    /* De webpagina bevat een achtergrondfoto.*/
+    background-image: url(../images/achtergrond.png);
+    /* Alle tekst op alle webpagina's krijgen het lettertype times new roman. Als times new roman niet ondersteund wordt dan wordt het lettertype times gebruikt.*/
+    font-family: 'Times New Roman', Times, serif;
+    /*Hiermee stellen we de grootte van de lettertype voor alle pagina's zonder opmaak.*/
+    font-size: 16px; 
+    /*Met justify zorgen we ervoor dat alle teksten opvullend zijn.*/
+    text-align: justify; 
+
+}
+/*Deze id zorgt voor de opmaak van de witte kader op de website.*/
+#container{ 
+    /*Hiermee wordt de achtergrondkleur aangepast.*/
+    background-color: white; 
+    /*De breedte wordt ingesteld op 100 %, we werken met procenten zodat de website makkelijk responsive te maken.*/
+    width: 100%; 
+    /*De maximum breedte voor de witte kader stellen we in op 1200 px, als je deze code instelt kan de container niet groter worden dan de maximum breedte.*/
+    max-width: 1200px; 
+    /* De linker- en rechtermargin stellen we in op auto. Auto is de verkorte versie van 0 px.*/
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+/*Deze class zorgt voor de opmaak van de foto op de banner.*/
+#banner img{
+    /*Hiermee zorgen dat de foto op de banner niet zal verplaatsen.*/
+    display: block; 
+    /* De linker- en rechtermargin stellen we in op auto. Auto is de verkorte versie van 0 px.*/
+    margin-left: auto; 
+    margin-right: auto;
+    
+}
+/*Met volgende stuk code passen we de stijl aan van de navigatie.*/
+nav{
+    /*Hiermee zorgen we voor een onderrand met een donkergrijze kleur en een dikte van 1 px.*/
+    border-bottom: darkgray solid 1px; 
+    /*Deze code zorgt ervoor dat de navigatieknoppen niet op elkaar gaan staan.*/
+    overflow: hidden; 
+}
+/*Met deze class veranderen we de navigatieknoppen.*/
+.nav-item{
+    /*We zorgen ervoor dat ze mooi links staan op de navigatie.*/
+    float: left; 
+    /*De marges stellen we in als volgt: onder en boven 0, links en rechts 2 px.*/
+    margin: 0px 2px; 
+    /*De type opsomming zetten we op geen.*/
+    list-style-type: none; 
+    /*We zorgen voor een donkergrijze rand van 1 px.*/
+    border: 1px solid darkgray; 
+    /*De hoeken van de rand laten we zachtjes buigen met 5 px.*/
+    border-radius: 5px 5px 0px 0px;
+    /*De tekstgrootte passen we aan op 21 px.*/
+    font-size: 21px;
+    /*Padding zorgt voor de ruimte tussen de tekst en de rand. Hier zetten we een padding van 5 px links en rechts, en 15 px boven en onder.*/ 
+    padding: 5px 15px 5px 15px; 
+
+}
+/*Deze class spreekt de homeknop aan.*/
+.nav-item-homeknop{
+    /*We zorgen ervoor dat het helemaal rechts staat op de navigatiebalk.*/
+    float: right;
+    /*De marges stellen we in als volgt: onder en boven 0, links en rechts 2 px.*/ 
+    margin: 0px 2px; 
+    /*De type opsomming zetten we op geen.*/
+    list-style-type: none;
+    /*We zorgen voor een donkergrijze rand van 1 px.*/
+    border: 1px solid darkgray;
+    /*De hoeken van de rand laten we zachtjes buigen met 5 px.*/
+    border-radius: 5px 5px 0px 0px;
+    /*De grootte van de lettertype passen we aan op 21 px.*/
+    font-size: 21px;
+    /*Padding zorgt voor de ruimte tussen de tekst en de rand. Hier zetten we een padding van 5 px links en rechts, en 15 px boven en onder.*/
+    padding: 5px 15px 5px 15px;
+}
+/* Met deze id passen we de stijl aan van de foto dat gebruikt wordt als homeknop.*/
+#homeknop{
+    /*We zorgen ervoor dat de foto een grootte krijgt van 21 px.*/
+    width: 21px; 
+}
+/*Met deze class zullen we de stijl van de links op de navigatiebalk aanpassen.*/
+.nav-item a{
+    /*We zorgen ervoor dat er geen decoratie zit op de links, dus geen onderlijning of dergelijke.*/
+    text-decoration: none;
+    /*We zorgen ervoor dat de tekst zwart is.*/ 
+    color: black; 
+}
+/*Hiermee passen we de stijl aan voor wanneer je over het element beweegt met de computermuis.*/
+.nav-item a:hover{
+    /*De kleur stellen we in op een donker blauwe kleur.*/
+    background-color: #005192; 
+    /*De kleur van de tekst laten we veranderen naar wit.*/
+    color: white;
+}
+/*Hiermee spreken we alle h1-elementen aan die zicht in de main bevinden.*/
+main h1{
+    /*We zorgen dat de tekst centraal staat gepositioneerd.*/
+    text-align: center; 
+    /*De marges stellen we ze alle vier in op 20 px.*/
+    margin: 20px; 
+    /*We veranderen de bovenmarge van 20 px naar 40 px.*/
+    margin-top: 40px;
+    /*We geven de tekst een donker blauwe kleur.*/
+    color:#005192; 
+}
+/*Met deze id passen we de stijl aan van de foto op de homepagina.*/
+#hoofdfoto{
+    /*We stellen alle marges uitgezonderd de boven marge in op 28 px.
+      De bovenmarge stellen we in op 8 px.*/
+    margin: 28px;
+    margin-top: 8px;
+    /*We veranderen de linker marge naar 110 px zodat de foto mooi centraal staat.*/
+    margin-left: 110px; 
+    /*We stellen de foto in op een grootte van 600 px.*/
+    width: 600px;
+}
+/*Met volgende code passen we de aside aan.*/
+aside{
+/*We zorgen voor een breedte van 18 %.*/
+ width: 18%; 
+ /*De padding van boven passen we aan op 5 px.*/
+ padding-top: 5px; 
+ /*De padding van links passen we aan op 4%.*/
+ padding-left: 4%; 
+ /*De padding van onder passen we aan op 15 px.*/
+ padding-bottom: 15px;
+ /*De bovenmarge passen we aan naar 5 px.*/
+ margin-top: 5px;
+ /*We zorgen ervoor dat de tekst gecentreerd staat.*/
+ text-align: center;
+ /*We zorgen dat de aside mooi links staat op de pagina.*/
+ float: left;
+ /*De ondermarge zetten we op 10 px.*/
+ margin-bottom: 10px; 
+}
+/*Met volgende code passen we alle a-elementen dat voorkomen in de aside.*/
+aside a{
+    /*We zorgen ervoor dat er geen decoratie is.*/
+    text-decoration: none;
+    /* De tekstkleur stellen we in op zwart.*/
+    color: black;
+}
+/*Hiermee veranderen we de stijl van alle p-elementen in de aside.*/
+aside p{
+    /*We zorgen voor een achtergrond met een lichtblauwe kleur.*/
+    background-color:#008ac9; 
+    /*We stellen de linker- en rechterpadding in op 8 px, de boven- en onderpadding op 5 px.*/
+    padding: 8px 5px 8px 5px; 
+}
+/*Hiermee veranderen we alle h1-elementen die in de aside voorkomen.*/
+aside h1{
+    /*We stellen de kleur in op een donker blauw.*/
+    color:#005192; 
+}
+/*Hiermee veranderen we de stijl van de tabel dat in de aside voorkomt.*/
+aside table{
+    /*We zorgen voor een lichtgrijze achtergrondkleur.*/
+    background-color:lightgray;
+    /*De breedte stellen we in op 100 % van de aside.*/
+    width: 100%; 
+    /*We stellen de linker- en rechterpadding in op 8 px, de boven- en onderpadding op 5 px.*/
+    padding: 8px 5px 8px 5px; 
+}
+/*Met deze code zorgen we ervoor dat de footer onderaan de pagina blijft.*/
+#clear{
+    clear: both;
+}
+/*Hiermee passen we de stijl aan van de footer.*/
+footer{
+    /*We zorgen ervoor dat de tekstkleur zwart is.*/
+    color:black; 
+    /*De achtergrondkleur stellen we in op lichtgrijs.*/
+    background-color:lightgray;
+    /*We centreren de tekst.*/
+    text-align: center;
+    /*We zorgen voor een volle bovenrand van 4 px dik met een donkerblauwe kleur.*/
+    border-top:#005192 solid 4px;
+    /*We zorgen ervoor dat de grootte van de footer 20 px is.*/
+    line-height: 20px; 
+    /*De lettergrootte stellen we in op 14 px.*/
+    font-size: 14px; 
+    /*we zorgen ervoor dat de onderpadding 1 px is.*/
+    padding-bottom: 1px; 
+}
+/*Hiermee passen we de stijl aan van alle a-elementen in de footer.*/
+footer a{
+    /*We stellen in dat het helemaal rechts staat op de footer.*/
+    float: right; 
+}
+/*Hiermee passen we de stijl aan van de foto in de footer.*/
+footer img{
+    /*We stellen de grootte van de foto in op 30 x.*/
+    width: 30px; 
+}
+/*Hieronder komt de code voor de pagina productrange.
+Met deze class veranderen we de stijl van alle a-elementen met de class dienst.*/
+
+.dienst{
+    /*We stellen in dat er geen decoratie moet zijn op de links.*/
+    text-decoration: none;
+    /*We stellen de tekstkleur in op wit.*/
+    color: white; 
+    /*We veranderen de grootte van de tekst op 20 px.*/
+    font-size: 20px; 
+}
+
+/* Hieronder komt de code voor de pagina pers.html.*/
+/*Met deze class veranderen we de stijl van de verschillende artikels.
+We hebben ook deze class gebruikt om de verschillende diensten te stijlen.*/
+.kolom {
+    /*We zorgen dat de kolommen links staan. */
+    float: left; 
+    /*We stellen de grootte aan op 22 px.*/
+    width: 22%; 
+    /*De marges zetten we op 20px.*/
+    margin: 20px; 
+    /*we veranderen de bovenmarge naar 8 px.*/
+    margin-top: 8px; 
+    /*We stellen de padding in op 10 px.*/
+    padding: 10px; 
+    /*Met deze code zorg je er voor dat de marges en padding meegerekend worden in de totale grootte van het kader.*/
+    box-sizing: border-box; 
+    /*De achtergrondkleur is een lichtblauwe kleur.*/
+    background-color:#008ac9; 
+    /*De tekstkleur zetten we op wit.*/
+    color:white;
+    /*We zorgen ervoor dat de tekst links is uitgelijnd.*/
+    text-align: left; 
+    }
+/*Met deze class passen we de stijl van alle a-elementen met de class link.*/
+.link{
+    /*We kiezen voor geen tekstdecoratie.*/
+    text-decoration: none;
+    /*De kleur stellen we in op wit.*/ 
+    color: white; 
+}
+/*Hiermee passen we de foto's aan dat in de kolommen voorkomen.*/
+.fotoartikel{
+    /*We stellen de grootte van de foto's in op 230 px.*/
+    width: 230px; 
+}
+/* Hieronder komt de code voor de pagina interview.*/
+/*Hiermee passen we de stijl van de inleiding.*/
+#inleiding{
+    /*We stellen de linkermarge op 330 px en de bovenmarge op 45 px.*/
+    margin-left: 330px;
+    margin-top: 45px;
+    /*We stellen de rechtermarge in op 60 px.*/
+    margin-right: 60px; 
+}
+/*Hiermee veranderen we de stijl van de vragen.*/
+.vraag{
+    /*We stellen de linkermarge in op 330 px.*/
+    margin-left: 330px; 
+    /*We stellen de rechtermarge in op 60 px.*/
+    margin-right: 60px; 
+    /*We zetten de tekst in het vet.*/
+    font-weight: bold; 
+}
+/*Hiermee passen we de stijl aan van de antwoorden.*/
+.antwoord{
+    /*We stellen de linkermarge in op 330 px.*/
+    margin-left: 330px; 
+    /*We stellen de rechtermarge in op 60 px.*/
+    margin-right: 60px; 
+}
+
+/*Hieronder komt de code voor de pagina contact.html.*/
+/*Met de class map passen we de stijl aan van de div met de class map.*/
+.map{
+    /*We zorgen dat hij links staat.*/
+    float: left; 
+    /*We stellen een donkerblauwe achtergrond in.*/
+    background-color:#005192; 
+    /*De marges zetten we in op 90 px.*/
+    /*De bovenmarge zetten we in op 112 px.*/
+    margin: 90px; 
+    margin-top: 103px;
+    /*We passen de linkermarge in naar 112 px.*/
+    margin-left: 112px; 
+    /*We stellen een padding in van 10 px.*/
+    padding: 10px; 
+    
+}
+/*Met deze id passen we de stijl van de foto met de id map.*/
+#map{
+    /*We stellen de breedte in op 400 px.*/
+    width: 400px; 
+    /*We stellen de hoogte in op 300 px.*/
+    height: 350px; 
+}
+/*Hiermee passen we de stijl aan van de rechter aside in de pagina.*/
+.right{
+    /*We zetten de grootte in op 18 %.*/
+ width: 18%; 
+ /*de bovenpadding zetten we op 5 px, de rechterpadding op 4% en de onderpadding in op 15 px.*/
+ padding-top: 5px; 
+ padding-right: 4%;
+ padding-bottom: 15px;
+ /*De bovenmarge zetten we op 5 px.*/
+ margin-top: 5px; 
+ /*We zorgen ervoor dat de tekst gecentreerd staat.*/
+ text-align: center; 
+ /*We stellen in dat de aside rechts komt te staan van de pagina.*/
+ float: right; 
+ /*De ondermarge passen we aan naar 10 px.*/
+ margin-bottom: 10px; 
+}
+/*Hiermee passen we de grootte van de foto op de aside dat zich rechts bevind op de pagina contact.*/
+#fotoaside{
+/*We stellen de grootte aan op 100 % van de aside. */
+ width: 100%;
+
+}
+/*Met volgende code passen we alle a-elementen dat voorkomen in de aside.*/
+aside a{
+    /*We zorgen ervoor dat er geen decoratie is.*/
+    text-decoration: none;
+    /*De tekstkleur stellen we in op zwart.*/
+    color: black;
+}
+/*Hiermee veranderen we de stijl van alle p-elementen in de aside.*/
+aside p{
+    /*We zorgen voor een achtergrond met de een lichtblauwe kleur.*/
+    background-color:#008ac9; 
+    /*We stellen de linker- en rechterpadding in op 8px, de boven- en onderpadding op 5px.*/
+    padding: 8px 5px 8px 5px; 
+}
+/*Hiermee veranderen we alle h1-elementen die in de aside voorkomen.*/
+aside h1{
+    /*We stellen de kleur in op een donker blauw.*/
+    color:#005192; 
+}
+/*Hiermee veranderen we de stijl van de tabel dat in de aside voorkomt.*/
+aside table{
+    /*We zorgen voor een lichtgrijze achtergrondkleur.*/
+    background-color: lightgray;
+    /*De breedte stellen we in op 100 % van de aside.*/
+    width: 100%; 
+    /*We stellen de linker- en rechterpadding in op 8 px, de boven- en onderpadding op 5 px.*/
+    padding: 8px 5px 8px 5px; 
+}
+#clear{
+    /*Met deze code zorgen we ervoor dat de footer onderaan de pagina blijft.*/
+    clear: both; 
+}
+
+/* media queries*/
+
+@media screen and (max-width: 400px) /*Grootte iphone X*/
+{
+    /*De aanpassingen voor de index pagina.*/
+    aside{
+        /*We zorgen ervoor dat de aside getoond.*/
+        display: block; 
+        /*We stellen in dat hij niet rechts of links moet staan.*/
+        float: none; 
+        /*We stellen in dat hij een grootte neemt van 88,5 % tov de pagina.*/
+        width: 88.5%; 
+    }
+    /*Hiermee passen we de foto in de index aan.*/
+    #hoofdfoto{
+        /*We zetten hem op een grootte van 300 px.*/
+        width: 300px; 
+        /*We stellen een likermarge van 28 px in.*/
+        margin-left: 28px; 
+    }
+    /*Hiermee passen we alle navigatieknoppen.*/
+    .nav-item{
+        /*We zorgen ervoor dat de linkermarge 0 px is en zijn rechtermarge 40 px.*/
+        margin-left: auto; 
+        margin-right: 40px; 
+        /*We stellen een marge in van 5 px.*/
+        margin-top: 5px; 
+        /*Met deze code zorgen we ervoor dat de navigatieknoppen onder elkaar komen.*/
+        float: none; 
+    }
+    /*Hiermee passen we de homeknop toe.
+      We passen alles gelijk aan zoals de andere navigatieknoppen hierboven.*/
+    .nav-item-homeknop{
+        float: none;
+        margin-left: auto;
+        margin-right: 40px;
+        margin-top: 5px;
+    }
+
+    /*De aanpassingen voor de pagina productrange en de pagina artikels.*/
+    
+    /*Hiermee passen we de stijl aan van de drie kolommen.*/
+    .kolom{
+        /*We zorgen dat ze links van de pagina komen.*/
+        float: left; 
+        /*We stellen in dat ze een breedte van 88,5 % tegenover de pagina hebben.*/
+        width: 88.5%; 
+    }
+
+    /*De aanpassingen voor de pagina interview*/
+    /*Hiermee passen we de vragen aan.*/
+    .vraag{
+        /*We zorgen voor een linker- en rechtermarge van 8 px.*/
+        margin-left: 8px; 
+        margin-right: 8px;
+        /*We stellen de lettergrootte aan op 14 px.*/
+        font-size: 14px; 
+    }
+    /*Hiermee passen we de antwoorden aan.*/
+    .antwoord{
+        /*We zorgen voor een linker- en rechtermarge van 8 px.*/
+        margin-left: 8px; 
+        margin-right: 8px;
+        /*We stellen de lettergrootte aan op 14 px.*/
+        font-size: 14px; 
+    }
+    /*Hiermee passen we de inleiding aan.*/
+    #inleiding{
+        /*We zorgen voor een linker- en rechtermarge van 8 px.*/
+        margin-left: 8px; 
+        margin-right: 8px;
+        /*We stellen de lettergrootte aan op 14 px.*/
+        font-size: 14px; 
+    }
+
+    /*De aanpassingen voor de pagina contact*/
+    /*Hiermee kunnen we de stijl van de map veranderen.*/
+    .map{
+        /*We stellen alle marges in op 20 px.*/
+       margin: 20px; 
+    }
+    /*Hiermee passen we de stijl van de foto aan.*/
+    #map{
+        /*We stellen hem in op een breedte en hoogte van 300 px.*/
+        width: 300px; 
+        height: 300px;
+    }
+    /*Hiermee passen we de rechteraside aan.*/
+    .right{
+        /*We zorgen ervoor dat de aside getoond wordt.*/
+        display: block; 
+        /*We stellen in dat hij niet rechts of links moet staan.*/
+        float: none; 
+        /*We stellen in dat hij een breedte neemt van 88,5 % van de pagina.*/
+        width: 88.5%;
+    }
+}
+
+@media screen and (max-width:1200px)/*Grootte ipad*/
+{
+    /*Hier komen de aanpassingen voor de pagina index*/
+    /*Hiermee passen we de stijl aan van alle asides.*/
+    aside{
+        /*We zorgen voor een grootte van 24 % tegenover de pagina.*/
+        width:24%; 
+    }
+    /*Hiermee passen we de foto van in de indexpagina aan.*/
+    #hoofdfoto{
+        /*We zetten hem op een grootte van 450 px.*/
+        width: 450px; 
+        /*We stellen een marge in van 45 px.*/
+        margin-left: 45px; 
+    }
+
+    /*Hier komen de aanpassingen voor de pagina productrange en artikel.*/
+    /*Hiermee passen we de stijl aan van de drie kolommen.*/
+    .kolom{
+        /*We stellen in dat hij niet links of rechts op de pagina moet staan.*/
+        float: none; 
+        /*We stellen een linkermarge in van 300 px.*/
+        margin-left: 300px; 
+        /*We geven hem een breedte van 50 % tegenover de pagina.*/
+        width: 50%; 
+        /*We zorgen ervoor dat de onderpadding 0 is.*/
+        padding-bottom: auto; 
+    }
+
+    /*Hier komen de aanpassingen voor de pagina interview.*/
+    /*Hiermee passen we de vraag, antwoord en inleiding aan.*/
+    .vraag{
+        /*We stellen de linkermarge in op 230 px en de rechtermarge in op 30 px.*/
+        margin-left: 230px; 
+        margin-right: 30px;
+    }
+
+    .antwoord{
+        /*We stellen de linkermarge in op 230 px en de rechtermarge in op 30 px.*/
+        margin-left: 230px;
+        margin-right: 30px;
+    }
+
+    #inleiding{
+        /*We stellen de linkermarge in op 230 px en de rechtermarge in op 30 px.*/
+        margin-left: 230px;
+        margin-right: 30px;
+    }
+
+    /*Hier komen de aanpassingen voor de pagina contact0*/
+    /*Hiermee passen we de rechteraside in.*/
+    .right{
+         /*We zorgen voor een breedte van 26 %.*/
+        width: 26%;
+        /*We zorgen ervoor dat hij zowel niet links en rechts moet staan.*/
+        float: none; 
+    }
+    /*Hiermee kunnen we de stijl van de map veranderen.*/
+    .map{
+        /*We zorgen ervoor dat hij zowel niet links en rechts moet staan.*/
+        float: none; 
+        /*We stellen de linkermarge in op 300 px.*/
+        margin-left: 300px; 
+    }
+    /*Hiermee passen we de stijl aan van de foto.*/
+    #map{
+        /*We stellen de breedte in op 340 px en de hoogte in op 300 px.*/
+        width: 340px; 
+        height: 300px;
+    }
+}

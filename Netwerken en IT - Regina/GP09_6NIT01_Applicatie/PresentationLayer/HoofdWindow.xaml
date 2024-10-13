@@ -1,0 +1,21 @@
+﻿<Window x:Class="PresentationLayer.HoofdWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationLayer"
+        mc:Ignorable="d"
+        Title="Startscherm" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="labelGebruikersnaam" Content="" HorizontalAlignment="Left" Height="55" Margin="10,10,0,0" VerticalAlignment="Top" Width="192" FontSize="14"/>
+        <Label x:Name="labelFunctie" Content="" HorizontalAlignment="Left" Height="55" Margin="10,58,0,0" VerticalAlignment="Top" Width="192" FontSize="14"/>
+        <Label x:Name="labelDatum" Content="" HorizontalAlignment="Left" Height="55" Margin="10,110,0,0" VerticalAlignment="Top" Width="192" FontSize="14"/>
+        <Image x:Name="ImageLogoZiekenhuis" HorizontalAlignment="Left" Height="100" Margin="10,175,0,0" VerticalAlignment="Top" Width="100" Source="logo ziekenhuis klein.jpg"/>
+        <Button x:Name="buttonAfmelden" Content="Afmelden" HorizontalAlignment="Left" Margin="10,297,0,0" VerticalAlignment="Top" Width="104" Height="100
+                " Background="#FF0086B9" FontSize="16" Foreground="White" Click="ButtonAfmelden_Click"/>
+        <Button x:Name="buttonNieuwProbleem" Content="Nieuw probleem" HorizontalAlignment="Left" Margin="324,64,0,0" VerticalAlignment="Top" Width="108" Height="64" Background="#FF0086B9" Foreground="White" Click="ButtonNieuwProbleem_Click" />
+        <Button x:Name="buttonWijzigProbleem" Content="Wijzig probleem" HorizontalAlignment="Left" Margin="324,160,0,0" VerticalAlignment="Top" Width="108" Height="64" Background="#FF0086B9" Foreground="White" Click="ButtonWijzigProbleem_Click"/>
+        <Button x:Name="buttonVerwijderProbleem" Content="Verwijder probleem" HorizontalAlignment="Left" Margin="324,260,0,0" VerticalAlignment="Top" Width="108" Height="64" Background="#FF0086B9" Foreground="White" Click="ButtonVerwijderProbleem_Click"/>
+        <ListBox x:Name="listBoxProblemen" HorizontalAlignment="Left" Height="331" Margin="494,38,0,0" VerticalAlignment="Top" Width="265"/>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+Wat voor soort waarden bevatten onderstaande dikgedrukte variabelen ?
+let leeftijd = 34; -> int
+let intrest = 0.12; -> double/decimal
+let isGevaarlijk=true; -> boolean
+let vandaag = new Date(); -> datum/date
+const print = (message) => { functies zijn ook waarden, van het type 'function'! -> String
+console.log(message);
+};
+Je kan dit bv. snel op de console in de Chrome Developer Tools uitproberen.
+Wat is het type van de waarden in de volgende globale variabelen?
+• window -> je scherm
+• document (eigenlijk window.document) -> document object
+• console (eigenlijk window.console) -> console object

@@ -1,0 +1,45 @@
+De eigenlijke opgave vind je in de bijbehorende video 'js deel 04 zelftest opgave.mp4'
+
+Voor de volledigheid : een kleurzone die je dynamisch toevoegt als de gebruiker 'red' intypt, moet er zo uitzien :
+
+	<span class="kleurZone" style="background-color:red;">red</span>
+
+Tot slot, hieronder het tekstje met de drie belangrijke vragen :
+
+	wat is statisch, wat is dynamisch?
+		input en button : statisch
+		kleurzones : dynamisch
+		testzones : statisch
+
+	welke events en hoe reageren?
+		click op statische "Voeg kleurzone toe" button
+			-> functie nodig die
+				- kleurzone toevoegt
+				- instructies toont/verbergt			
+		click op dynamische kleurzone
+			-> functie nodig om te onthouden welke kleur gekozen werd
+		click op statische testzone
+			-> functie nodig om geklikte testzone in te kleuren
+
+	welke data moeten we onthouden?
+		de geselecteerde kleur, doe dit voorlopig in een globale variabele (*)
+
+
+(*) een globale variabele declareer je niet IN een functie maar op hetzelfde niveau als de functies.
+Doorgaans zet je ze allemaal netjes samen bovenaan je JS bestand.
+
+Bijvoorbeeld, in file index.js :
+
+	let globaleKleur = "white";  // <- dit is een globale variabele
+
+	const setup = () => {
+		...
+		let txtInput = ...; // <- dit is een lokale variabele
+		...
+	};
+
+	const voegToe = () => {
+		...
+	};
+
+	enz..

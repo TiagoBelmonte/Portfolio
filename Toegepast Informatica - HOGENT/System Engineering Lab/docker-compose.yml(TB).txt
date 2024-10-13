@@ -1,0 +1,37 @@
+version: '3'
+
+
+
+services:
+
+  vaultwarden:
+
+    image: vaultwarden/server:latest
+
+    container_name: vaultwarden
+
+    ports:
+
+      - 80:443
+
+    volumes:
+
+      - ~/.files-vaultwarden:/data
+
+  portainer:
+
+    image: portainer/portainer-ce:latest
+
+    container_name: portainer
+
+    ports:
+
+      - 8000:9443
+
+    volumes:
+
+      - /portainer-data/
+
+      - /var/run/docker.sock:/var/run/docker.sock
+
+      - ~/.files-portainer:/data portainer/portainer-ce:late

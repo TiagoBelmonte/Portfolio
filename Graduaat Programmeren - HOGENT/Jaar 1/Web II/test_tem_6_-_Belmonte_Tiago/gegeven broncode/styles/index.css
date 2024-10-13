@@ -1,0 +1,25 @@
+/* Je mag dit bestand niet aanpassen */
+
+.image-selection {
+    text-align:center;
+}
+
+.selectable {
+    height: 100px;
+    padding: 10px;
+    border : 5px solid transparent;
+}
+
+.selectable.selected {
+    border : 5px solid red;
+}
+
+.result {
+    color:red;
+    font-weight:bold;
+}
+
+.content {
+    border-top : 1px solid black;
+    border-bottom : 1px solid black;
+}

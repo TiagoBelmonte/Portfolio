@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+    <title>Taken</title>
+</head>
+<body>
+<div class="controls">
+    <div>
+        <label for="txtDescription">Taakbeschrijving</label>
+        <input id="txtDescription" type="text" placeholder="Titel">
+    </div>
+    <div>
+        <label for="sldLevel">Prioriteit</label>
+        <span>laag</span>
+        <input id="sldLevel" type="range" value="0" min="0" max="2">
+        <span>hoog</span>
+    </div>
+    <input type="button" id="btnAdd" value="Voeg taak toe">
+</div>
+<div class="tasksComponent">
+    <h1 class="heading">Taken</h1>
+    <div class="dotsOverlay">
+        <span class="dot low">low</span>
+        <span class="dot medium">medium</span>
+        <span class="dot high"/>high</span>
+    </div>
+    <div class="tasks">
+        <p class="task high">wekker zetten</p>
+        <p class="task low">ontbijten</p>
+        <p class="task medium">naar school gaan</p>
+    </div>
+</div>
+
+</body>
+</html>

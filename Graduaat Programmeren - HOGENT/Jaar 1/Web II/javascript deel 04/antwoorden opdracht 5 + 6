@@ -1,0 +1,39 @@
+Opdracht 5
+
+Waar wordt de event listener gekoppeld aan de slider?
+
+Bij de setup
+
+Waarom moeten we die op twee soorten events koppelen?
+
+Omdat je zowel op de input als op het veranderde deel koppelen
+
+In de CSS file wordt nergens een rode kleur opgegeven, waar wordt dan wel de rode kleur van
+het blokje ingesteld?
+
+ook in de setup functie met behulp van de style property
+
+Waarom schrijven we telkens sliders[0] en colorDemos[0] en niet gewoon sliders of
+colorDemos?
+
+Omdat je het element oproept via een class en niet id, een class heeft een lijst weer en niet enkel 1 object
+
+Opdracht 6
+
+Hoeveel elementen zitten er in elke verzameling?
+
+7 elementen
+
+Kun je uit de HTML code afleiden waarom er dit precies zoveel zijn?
+
+je hebt een section met een paragraaf en de input en nog een section met darin ook een paragraaf en een div
+en al dat zit nog eens in de body
+
+Klik op het driehoekje naast de sliders lokale variabele zodat je het eerste element kunt zien. Op welke
+index positie in de lijst staat dit element?
+
+
+
+Laat de uitvoering van het programma weer verder lopen door op te klikken.
+Stopt de uitvoering in jouw browser nu nogmaals? Zoja, waarom eigenlijk?
+

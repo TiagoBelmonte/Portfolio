@@ -1,0 +1,11 @@
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\obj\Debug\net8.0\LinqBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\obj\Debug\net8.0\LinqBL.AssemblyInfoInputs.cache
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\obj\Debug\net8.0\LinqBL.AssemblyInfo.cs
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\obj\Debug\net8.0\LinqBL.csproj.CoreCompileInputs.cache
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\bin\Debug\net8.0\LinqBL.deps.json
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\bin\Debug\net8.0\LinqBL.dll
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\bin\Debug\net8.0\LinqBL.pdb
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\obj\Debug\net8.0\LinqBL.dll
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\obj\Debug\net8.0\refint\LinqBL.dll
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\obj\Debug\net8.0\LinqBL.pdb
+C:\Users\tbelm\Documenten\programmeren gevorderd\LinqTrainingsdata\LinqBL\obj\Debug\net8.0\ref\LinqBL.dll

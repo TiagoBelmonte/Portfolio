@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="css/gp.css" rel="stylesheet"> <!--Met deze lijn code leggen we de link met de css pagina.-->
+<!--In deze regel tekst kan je typen wat er boven op het tablad gaat komen te staan.-->
+    <title>Sint Andries Ziekenhuis</title>
+  </head>
+  <body>
+    <!-- We maken een div aan om daarin alles te programmeren dat samen moet blijven, we gebruiken een id omdat het maar éénmalig voor zal komen.-->
+    <div id="container"> 
+      <!--Hieronder programeren we de header met de naviagtie balk.-->
+        <header> 
+          <!-- In de banner komt er een foto van het logo van het ziekenhuis.-->
+            <div id="banner"> 
+              <a href="https://www.sintandriestielt.be/"target="_blank"><img src="images/logo sint andries Tielt.png"alt="Logo van heet Sint Andries Ziekenhuis Tielt"> </a> 
+              <!-- Deze foto vinden we terug in de map "images". De tekst in het attribut alt wordt weergeven als de foto niet laad.-->
+            </div>
+            <!-- In de HTML tag "nav" gaan we de navigatie/menu gaan weergeven.-->
+            <nav>
+                <ul class="nav">
+                  <!--We kiezen hier voor een ongeorderde lijt daarom de html atribuut li, hier leggen we de link naar een css klasse.
+                      We gebruiken class omdat we die opmaak meerdere keren zullen gebruiken.-->
+                    <li class="nav-item"> 
+                      <a class="nav-link" href="productrange.html">Services</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="pers.html">Articles</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="interview.html">Interview</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                  </ul>
+            </nav>
+
+        </header>
+
+        <!--In de aside zetten we belangerijke informatie die in elke pagina te zien zal zijn. We gebruiken aside om ze dan gemakelijk langs de zijkant te zetten.-->
+        <aside> 
+          <!--De titel zetten we in h1 zodat het goed opvalt.-->
+           <h1 >Sint Andries ziekenhuis Tielt</h1> 
+           <!--We gebruiken een p-element om gegevens in alinea's te noteren en ze zo goed samen te houden. -->
+           <p> 
+                Bruggestraat 84<br>
+                8700 Tielt
+           </p>
+           <p>
+                051 42 51 11 <br> <!--Het attribuut br staat voor een enter.-->
+                <a href="mailto:info@sintandriestielt.be">info@sintandriestielt.be </a>
+                 
+           </p>
+            <!-- We plaatsen hier een tabel met het element table om de openingsuren te illustreren.-->
+           <table>
+              <!--Tr staat voor tablerow of in het nederlands een rij.-->
+               <tr>
+                 <!--Td gebruiken we om een kolom te maken in een tabel. Hier gebruiken we twee kolommen, ééntje voor de dagen en één voor de uren.-->
+                   <td>Monday</td> 
+                   <td>07 AM - 09 PM</td>
+               </tr>
+               <tr>
+                <td>Tuesday</td>
+                <td>07 AM - 09 PM</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>07 AM - 09 PM</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td>07 AM - 09 PM</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td>07 AM - 09 PM</td>
+            </tr>
+            <tr>
+                <td>Saturday</td>
+                <td>07 AM - 09 PM</td>
+                <tr>
+                    <td>Sunday</td>
+                    <td>07 AM - 09 PM</td>
+                </tr>
+            </tr>
+           </table>
+        </aside>
+        
+        
+        <!--Dat is het grotte witte kader waar alle belangrijke informatie staat.-->
+        <main> 
+          <!--Voor de titel gebruiken we een h1 zodat het goed opvalt.-->
+            <h1>Welcome to Sint-Andriesziekenhuis Tielt</h1> 
+            <div>
+              <!-- Hier plaatsen we een foto van het gebouw via een img-element.-->
+               <img id="hoofdfoto" src="images/gebouw ziekenhuis.jpg" alt="gebouw van het ziekenhuis"> 
+            </div>
+            
+        </main>
+
+        <!--Hiermee zorg je ervoor dat je footer onderaan op de pagina blijft.-->
+        <div id="clear"></div> 
+
+        <footer>
+            <p>
+                Sint-Andriesziekenhuis - Bruggestraat 84 8700 Tielt
+                <!--Hier leggen we een link via een foto om weer naar boven te gaan zonder te moeten scrollen.-->
+              <a id="boven" href="#top"><img src="images/pijl naar boven.png" alt="pijl om naar boven te gaan"></a> 
+            </p>
+           
+        </footer>
+    </div>
+  </body>
+</html>

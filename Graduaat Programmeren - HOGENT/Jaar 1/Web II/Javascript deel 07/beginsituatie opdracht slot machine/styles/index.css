@@ -1,0 +1,39 @@
+.controls {
+    text-align:center;
+}
+
+.slots {
+    text-align:center;
+}
+
+.slots img {
+    height: 100px;
+    padding: 10px;
+}
+
+/* button opmaak gegenereerd met https://www.bestcssbuttongenerator.com/ */
+.buttonLink {
+    box-shadow: 0px 0px 0px 0px #3dc21b;
+    background-color:#44c767;
+    border-radius:28px;
+    border:1px solid #18ab29;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:28px;
+    font-weight:bold;
+    font-style:italic;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+}
+.buttonLink:hover {
+    background-color:#5cbf2a;
+}
+.buttonLink:active {
+    position:relative;
+    top:1px;
+}
+/* einde button opmaak */
+
