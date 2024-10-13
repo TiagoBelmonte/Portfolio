@@ -1,0 +1,55 @@
+﻿<Window x:Class="AanwezighedenUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AanwezighedenUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="550">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF117293"/>
+            <GradientStop Color="White" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Title -->
+            <RowDefinition Height="Auto"/>
+            <!-- Filter inputs -->
+            <RowDefinition Height="*"/>
+            <!-- ListBox -->
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <!-- Naam Label -->
+            <ColumnDefinition Width="*"/>
+            <!-- Naam TextBox -->
+            <ColumnDefinition Width="Auto"/>
+            <!-- RadioButtons -->
+            <ColumnDefinition Width="Auto"/>
+            <!-- Filter Button -->
+        </Grid.ColumnDefinitions>
+
+        <!-- Title -->
+        <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Text="Alle evenementen" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="10"/>
+
+        <!-- Naam Label -->
+        <Label Grid.Row="1" Grid.Column="0" Content="Filter op:" VerticalAlignment="Center" Margin="10"/>
+        <!-- Naam TextBox -->
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="10" Name="TextBoxInput"/>
+
+        <!-- Radio Buttons -->
+        <StackPanel Grid.Row="1" Grid.Column="2" Orientation="Horizontal" VerticalAlignment="Center" Margin="10">
+            <RadioButton Content="Naam" IsChecked="True" Name="RBNaam" Margin="0,0,5,0"/>
+            <RadioButton Content="Datum" IsChecked="False" Name="RBDatum"/>
+        </StackPanel>
+
+        <!-- Filter Button -->
+        <Button Grid.Row="1" Grid.Column="3" Content="Filter" Width="50" Margin="10" Click="Button_Click_Filter"/>
+
+        <!-- ListBox -->
+        <ListBox Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="4" Margin="10" Name="ListBoxEvenementen" SelectionChanged="ListBoxEvenementen_SelectionChanged" />
+    </Grid>
+</Window>
